@@ -1,5 +1,5 @@
 ```javascript
-const dude {
+const me = {
   name:     'Luis Esteban',
   lastName: 'Ramírez',
   mail:     'leramirezca@gmail.com',
