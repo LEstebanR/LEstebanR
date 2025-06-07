@@ -8,13 +8,13 @@ I enjoy creating simple, useful products that solve real-world problems — with
 
 ### 🚀 Projects
 
-#### 🧠 [OniricApp](https://github.com/luisesteban/oniricapp) `— Launched`
+#### 🧠 [OniricApp](https://github.com/LEstebanR/dream_Interpreter) `— Launched`
 A dream interpreter powered by AI. The goal is to evolve it into a full-featured dream journal where users can track, search, and analyze their dreams over time.
 
-#### 💈 [BarberApp](https://github.com/luisesteban/barberapp) `— In Progress`
+#### 💈 [BarberApp](https://github.com/LEstebanR/barberapp) `— In Progress`
 A barber shop management tool. Barbers can create a public profile, manage their appointments, and share their schedule with clients.
 
-#### 💸 [Personal Finances](https://github.com/luisesteban/personal-finances) `— In Progress`
+#### 💸 [Personal Finances](https://github.com/LEstebanR/personal-finances) `— In Progress`
 A personal finance tracker to help users manage their income, expenses, and savings.
 
 ---
