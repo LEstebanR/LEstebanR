@@ -36,8 +36,8 @@ A personal finance tracker to help users manage their income, expenses, and savi
 
 ### 📬 Get in Touch
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/lestebanr/))
-- 🌐 [Website or portfolio]([https://yourwebsite.dev](https://www.lesteban.dev/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lestebanr/))
+- 🌐 [Website]((https://www.lesteban.dev/))  
 - 📨 lesteban.dev@gmail.com
 
 ---
