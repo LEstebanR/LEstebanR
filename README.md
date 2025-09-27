@@ -1,45 +1,44 @@
-### 👋 Hey, I'm Luis Esteban
+### 👋 Hey, I'm Luis
 
-I'm a web developer with experience in **React**, **Next.js**, **Tailwind**, and **Supabase**. I work full-time as a frontend developer and spend my free time building side projects as an indie hacker.
-
-I enjoy creating simple, useful products that solve real-world problems — with a **minimalist** mindset and a focus on functionality over flash.
+Frontend developer and indie hacker in the making.  
+I like building simple and useful products with a minimal stack — focusing on function over flash.  
 
 ---
 
 ### 🚀 Projects
 
-#### 🧠 [OniricApp](https://github.com/LEstebanR/dream_Interpreter) `— Launched`
-A dream interpreter powered by AI. The goal is to evolve it into a full-featured dream journal where users can track, search, and analyze their dreams over time.
+#### 🧠 [OniricApp](https://github.com/LEstebanR/dream_Interpreter) `— launched`
+An AI-powered dream interpreter. The goal is to evolve it into a dream journal to track, search, and analyze dreams over time.  
 
-#### 💈 [BarberApp](https://github.com/LEstebanR/barberapp) `— In Progress`
-A barber shop management tool. Barbers can create a public profile, manage their appointments, and share their schedule with clients.
+#### 💈 [BarberApp](https://github.com/LEstebanR/barberapp) `— in progress`
+A barber shop management tool: public profile, appointment scheduling, and calendar sharing.  
 
-#### 💸 [Personal Finances](https://github.com/LEstebanR/personal-finances) `— In Progress`
-A personal finance tracker to help users manage their income, expenses, and savings.
+#### 💸 [Personal Finances](https://github.com/LEstebanR/personal-finances) `— in progress`
+A simple tracker for income, expenses, and savings.  
 
 ---
 
-### 🛠️ Favorite Stack
+### 🛠️ Stack I Use
 
-- **Frontend:** React, Next.js, Tailwind CSS, ShacnUI 
-- **Backend:** Supabase, PostgreSQL, NodeJs  
-- **Tools:** Git, Bun, GitHub Actions
+- **Frontend:** NextJs, Tailwind CSS, ShadcnUI  
+- **Backend:** Supabase, Node  
+- **Extras:** Git  
 
 ---
 
 ### 🌱 Currently Learning
 
-- Building with AI to enhance my products  
-- React Native (to create mobile versions of my apps)  
+- Building with AI to improve my products  
+- React Native (to bring apps to mobile)  
 
 ---
 
-### 📬 Get in Touch
+### 📬 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lestebanr/)
-- 🌐 [Website](https://www.lesteban.dev/)  
-- 📨 lesteban.dev@gmail.com
+- 🌐 [lesteban.dev](https://www.lesteban.dev/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lestebanr/)  
+- ✉️ lesteban.dev@gmail.com  
 
 ---
 
-> “Build once. Launch fast. Learn always.”
+> Minimal stack. Useful products. Indie mindset.
